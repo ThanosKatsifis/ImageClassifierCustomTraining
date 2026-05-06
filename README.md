@@ -35,6 +35,8 @@ The UI is built with **Tkinter + ttk**, styled with a modern dark theme inspired
 - Progress bar + ETA  
 - Activity log with auto‑scroll  
 - Non‑blocking threads for training & inference
+- <img width="1082" height="832" alt="Στιγμιότυπο οθόνης 2026-05-06 183618" src="https://github.com/user-attachments/assets/9bc60a2d-6100-4c28-93d0-5b65bca86d2a" />
+
 
 ### 📂 Classification Modes
 - **Single image classification**  
