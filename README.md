@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="Modern tech banner" src="https://github.com/user-attachments/assets/bb842fcc-bcbc-4462-b45e-5a3585b782cf" />
 
 # 🧠 Custom Image Classifier  
 *A modern Tkinter desktop app for training your own image‑classification model using PyTorch + ResNet‑18.*
